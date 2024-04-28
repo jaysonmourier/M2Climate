@@ -1,0 +1,12 @@
+matplotlib
+scikit-learn
+pandas
+openpyxl
+pymysql
+sqlalchemy
+folium
+geopy
+geopandas
+seaborn
+kaleido
+plotly
